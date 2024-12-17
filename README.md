@@ -53,7 +53,7 @@ Before running the application, ensure the following requirements are met:
 
 Run the Streamlit application using the following command:
 ```bash
-streamlit run <filename>.py
+streamlit run healthui.py
 ```
 
 ### Application Walkthrough:
@@ -145,9 +145,8 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 ## Author
-
-[Your Name]  
-Email: your.email@example.com
+TheSyntaxSorcerers 
+Email: 	thesyntaxsorcerers@gmail.com
 
 ---
 
